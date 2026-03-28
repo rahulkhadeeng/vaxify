@@ -121,7 +121,7 @@ const footerLinks: FooterSection[] = [
     links: [
       {
         title: "GitHub Repository",
-        href: "https://github.com/Abhish7k/vaxify-mono",
+        href: "https://github.com/rahulkhadeeng/vaxify",
       },
       { title: "Contact Support", href: "mailto:contact@vaxify.xyz" },
     ],
